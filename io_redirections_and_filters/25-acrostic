@@ -1,2 +1,2 @@
 #!bin/bash
-cut -c 1 | tr -n | paste -d -s
+cut -c 1 | paste -d -s | tr -n
