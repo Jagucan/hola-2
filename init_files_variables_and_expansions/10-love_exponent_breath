@@ -1,2 +1,2 @@
 #!/bin/bash
-export BREATH="BREATH" | export LOVE="LOVE" | echo "$((BREATH*LOVE))"
+export BREATH="breath" | export LOVE="love" | echo "$((BREATH**LOVE))"
